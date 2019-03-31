@@ -3,10 +3,11 @@
 
 from ATM import ATM
 
+
 def main():
     startATM = ATM()
     startATM.accessATM()
 
 
-if __name__=="__main__":
+if __name__ == "__main__":
     main()
